@@ -33,8 +33,8 @@
     }
   ],
   "packs": [],
-  "manifest": "https://github.com/Khaali-dev/fullsearch/releases/latest/download/module.json",
-  "url": "https://github.com/Khaali-dev/fullsearch",
-  "download": "https://github.com/Khaali-dev/fullsearch/releases/download/1.2.1/module.zip",
+  "manifest": "https://github.com/fchauvire/Foundry-search-module/releases/latest/download/module.json",
+  "url": "https://github.com/fchauvire/Foundry-search-module",
+  "download": "https://github.com/fchauvire/Foundry-search-module/releases/download/1.3.0/module.zip",
   "protected": false
 }
