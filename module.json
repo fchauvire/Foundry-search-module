@@ -1,0 +1,40 @@
+{
+  "id": "fullsearch",
+  "title": "Search and Highlight",
+  "description": "Module for searching a pattern in all journal pages and highlighting it",
+  "version": "1.3.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": "12"
+  },
+  "system": [],
+  "relationships": {},
+  "authors": [
+    {
+      "name": "Khaali"
+    }
+  ],
+  "esmodules": [
+    "module/fullsearch.mjs"
+  ],
+  "styles": [
+    "css/fullsearch.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "French",
+      "path": "lang/fr.json"
+    }
+  ],
+  "packs": [],
+  "manifest": "https://github.com/Khaali-dev/fullsearch/releases/latest/download/module.json",
+  "url": "https://github.com/Khaali-dev/fullsearch",
+  "download": "https://github.com/Khaali-dev/fullsearch/releases/download/1.2.1/module.zip",
+  "protected": false
+}
