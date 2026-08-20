@@ -1,0 +1,15 @@
+<div class="fullsearch-dialog">
+  <div class="form-group">
+    <input type="text" id="fullsearch-input" placeholder="{{localize 'FULLSEARCH.SearchPlaceholder'}}" />
+    <button type="button" id="fullsearch-submit"><i class="fas fa-search"></i></button>
+  </div>
+  <ul class="fullsearch-results-list">
+    {{#each results}}
+      <li class="fullsearch-result-item">
+        <a class="fullsearch-result-link" data-journal-id="{{this.journalId}}" data-page-id="{{this.pageId}}">
+          <strong>{{this.journalTitle}}</strong> &gt; {{this.pageTitle}}
+        </a>
+      </li>
+    {{/each}}
+  </ul>
+</div>
