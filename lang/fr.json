@@ -1,0 +1,8 @@
+{
+  "FULLSEARCH.SearchButton": "Rechercher Journaux",
+  "FULLSEARCH.DialogTitle": "Recherche et Surlignage",
+  "FULLSEARCH.SearchPlaceholder": "Entrez le texte à chercher...",
+  "FULLSEARCH.SearchResult": "Résultat de recherche",
+  "FULLSEARCH.SettingsCaseSensitiveName": "Recherche sensible à la casse",
+  "FULLSEARCH.SettingsCaseSensitiveHint": "Activer la distinction entre majuscules et minuscules lors de la recherche dans les journaux."
+}
