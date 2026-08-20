@@ -1,0 +1,8 @@
+{
+  "FULLSEARCH.SearchButton": "Search Journals",
+  "FULLSEARCH.DialogTitle": "Journal Search and Highlight",
+  "FULLSEARCH.SearchPlaceholder": "Enter search pattern...",
+  "FULLSEARCH.SearchResult": "Search Result",
+  "FULLSEARCH.SettingsCaseSensitiveName": "Case Sensitive Search",
+  "FULLSEARCH.SettingsCaseSensitiveHint": "Enable case sensitive matching when searching journal contents."
+}
